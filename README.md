@@ -4,7 +4,7 @@ Twitch is intended to be a PowerShell module for interacting with Twitch.
 
 ## Status
 
-This repository is currently a placeholder. The module source still contains scaffold code, so there are no supported commands or usage examples to document yet.
+This repository is currently a placeholder. The module source still contains scaffolded code, so there are no Twitch-specific supported commands or usage examples to document yet.
 
 ## Documentation
 
